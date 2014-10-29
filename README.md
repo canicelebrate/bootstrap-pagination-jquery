@@ -2,7 +2,7 @@ bootstrap-pagination-jquery
 ===========================
 This plugin is migrated from [Another repository@github](https://github.com/markbates/jquery-bootstrap-pagination), Here this plugin just implemnts the display_max option whereas the owner of the original rep looks like he/she does'n want to fix it. Furthermore, the orignal repository is based on CoffeeScript, So I just edit the javascript here and added some comments(Only chinese can understand it). 
 
-jquery plugin to support bootstrap paginiaton component(support display_max)
+jquery plugin to support bootstrap paginiaton component(support display_max) and fixed the issue that apply paginiation on same page container div element multiple times will cause callback function to be invoked many times.
 
 #Usage
 ###Javascript
