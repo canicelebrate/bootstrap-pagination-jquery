@@ -5,13 +5,13 @@ This plugin is migrated from [Another repository@github](https://github.com/mark
 jquery plugin to support bootstrap paginiaton component(support display_max) and fixed the issue that apply paginiation on same page container div element multiple times will cause callback function to be invoked many times.
 
 #UI
-1.Select first page
+__Select first page__
 ![Select first page](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination1.png)
 
-2.Select last page
+__Select last page__
 ![Select last page](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination2.png)
 
-3.Select middle page for many pages scenarios
+__Select middle page for many pages scenarios__
 ![Select middle page for many pages scenarios](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination3.png)
 
 #Usage
