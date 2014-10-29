@@ -6,12 +6,15 @@ jquery plugin to support bootstrap paginiaton component(support display_max) and
 
 #UI
 __Select first page__
+
 ![Select first page](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination1.png)
 
 __Select last page__
+
 ![Select last page](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination2.png)
 
 __Select middle page for many pages scenarios__
+
 ![Select middle page for many pages scenarios](http://wwstudiogithub.qiniudn.com/bootstrap-pagination-jquery%2Fbootstrap_pagination3.png)
 
 #Usage
