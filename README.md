@@ -8,7 +8,7 @@ jquery plugin to support bootstrap paginiaton component(support display_max)
 ###Javascript
 ```
 // Basic usage:
-$("#my-pagination-section").pagination();
+$("`#my-pagination-section`").pagination();
 
 // With options:
 $("#my-pagination-section").pagination({
